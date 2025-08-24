@@ -11,13 +11,13 @@ integrantes = [
         "detalhada": "Experiência de 9 meses como front-end Jr",
         "objetivo": "Em busca de uma função de nível inicial no setor da nuvem.",
         "softskills": ["Trabalho em equipe", "Comunicação", "Proatividade", "Aprendizado contínuo"],
-        "hard skill": ["HTML", "CSS", "React", "JavaScript", "Cloud AWS"],
+        "stack": ["HTML", "CSS", "React", "JavaScript", "Cloud AWS"],
         "ferramentas": ["VSCode", "Figma", "GitHub"],
         "linkedin": "https://www.linkedin.com/in/adri-ana-gutierrez/",
         "github": "https://www.linkedin.com/in/adri-ana-gutierrez/"
     },
     {"nome": "Assis Vasconcelos", "slug": "assis-vasconcelos", "descricao": "Voltado para ciência de dados e análise preditiva."},
-    
+  
     {
         "nome": "Danilo Morais",
         "slug": "danilo-morais",
@@ -37,10 +37,11 @@ integrantes = [
         "nome": "Nauani Cortonesi", 
         "slug": "nauani-cortonesi", 
         "descrição":"Interessada em desenvolvimento full stack java.",
-        "detalhada":"Tenho experiência com trafégo pago e analise de mídias digitais."
-        "objetivo":"Estou estudando para atuar como Desenvolvedora Full stack java TechLead."
-        "Hard skill": ["Trafégo pago", "Design", "Cybersecurity", "Cloud AWS", "Marketing inbound e outbound"],
-        "Soft skill":"["resolução de conflitos", "observação e decisão", "pensamentos estratégicos", "autodidatismo", "empatia, "competitividade"],
+        "detalhada":"Tenho experiência com trafégo pago e analise de mídias digitais.",
+        "objetivo":"Estou estudando para atuar como Desenvolvedora Full stack java TechLead.",
+        "stack": ["Trafégo pago", "Design", "Cybersecurity", "Cloud AWS", "Marketing inbound e outbound"],
+        "ferramentas": ["GitHub"],
+        "softskills": ["resolução de conflitos", "observação e decisão", "pensamentos estratégicos", "autodidatismo", "empatia", "competitividade"],
         "Linkedin":"http://www.linkedin.com/in/nauani-cortonesi/",
         "Github":"https://github.com/nauani-cortonesi"
     },
